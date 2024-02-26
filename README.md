@@ -15,3 +15,5 @@ Then we have the fully connected layer, responsible for making the final predict
   ![alt text](https://github.com/grania38/Audio_signals_classification/blob/main/image4.jpg?raw=true)
   ![alt text](https://github.com/grania38/Audio_signals_classification/blob/main/image5.jpg?raw=true)
   ![alt text](https://github.com/grania38/Audio_signals_classification/blob/main/image6.jpg?raw=true)
+  ![alt text](https://github.com/grania38/Audio_signals_classification/blob/main/image7.jpg?raw=true)
+  ![alt text](https://github.com/grania38/Audio_signals_classification/blob/main/image8.jpg?raw=true)
